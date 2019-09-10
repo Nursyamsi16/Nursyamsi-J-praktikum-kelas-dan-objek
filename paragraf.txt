@@ -1,0 +1,4 @@
+python adalah bahasa pemrograman komputer, layaknya seperti bahasa pemrograman lain,
+ mislanya C, C++, pascal, java, php, perl, dll. sebagai bahasa pemrograman, python
+ tentu memiliki dialek, kosakata atau kata kunci (keyword), dan aturan tersendiri yang
+ jelas berbeda dengan bahasa pemrograman lainnya. 
